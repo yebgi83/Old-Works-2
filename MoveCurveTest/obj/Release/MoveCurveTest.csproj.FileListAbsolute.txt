@@ -1,0 +1,8 @@
+D:\Dev\Etc\MoveCurveTest\bin\Release\MoveCurveTest.exe
+D:\Dev\Etc\MoveCurveTest\bin\Release\MoveCurveTest.pdb
+D:\Dev\Etc\MoveCurveTest\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\MoveCurveTest\obj\Release\MoveCurveTest.frmMain.resources
+D:\Dev\Etc\MoveCurveTest\obj\Release\MoveCurveTest.Properties.Resources.resources
+D:\Dev\Etc\MoveCurveTest\obj\Release\MoveCurveTest.csproj.GenerateResource.Cache
+D:\Dev\Etc\MoveCurveTest\obj\Release\MoveCurveTest.exe
+D:\Dev\Etc\MoveCurveTest\obj\Release\MoveCurveTest.pdb

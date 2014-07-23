@@ -1,0 +1,5 @@
+D:\Dev\Etc\ProcessNameTest\bin\Release\ProcessNameTest.exe
+D:\Dev\Etc\ProcessNameTest\bin\Release\ProcessNameTest.pdb
+D:\Dev\Etc\ProcessNameTest\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\ProcessNameTest\obj\Release\ProcessNameTest.exe
+D:\Dev\Etc\ProcessNameTest\obj\Release\ProcessNameTest.pdb

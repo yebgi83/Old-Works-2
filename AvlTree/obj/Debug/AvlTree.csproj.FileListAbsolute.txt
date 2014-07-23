@@ -1,0 +1,10 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AvlTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AvlTree\bin\Debug\AvlTree.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AvlTree\bin\Debug\AvlTree.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AvlTree\obj\Debug\AvlTree.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AvlTree\obj\Debug\AvlTree.pdb
+D:\Dev\Etc\AvlTree\obj\Debug\AvlTree.exe
+D:\Dev\Etc\AvlTree\obj\Debug\AvlTree.pdb
+D:\Dev\Etc\AvlTree\bin\Debug\AvlTree.exe
+D:\Dev\Etc\AvlTree\bin\Debug\AvlTree.pdb
+D:\Dev\Etc\AvlTree\obj\Debug\ResolveAssemblyReference.cache

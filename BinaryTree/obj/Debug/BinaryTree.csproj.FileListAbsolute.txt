@@ -1,0 +1,5 @@
+D:\Dev\Etc\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Dev\Etc\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Dev\Etc\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Etc\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Dev\Etc\BinaryTree\obj\Debug\BinaryTree.pdb

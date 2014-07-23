@@ -1,0 +1,7 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ProcessNameTest\bin\Debug\ProcessNameTest.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ProcessNameTest\bin\Debug\ProcessNameTest.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ProcessNameTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ProcessNameTest\obj\Debug\ProcessNameTest.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ProcessNameTest\obj\Debug\ProcessNameTest.pdb
+D:\Dev\Etc\ProcessNameTest\obj\Debug\ProcessNameTest.exe
+D:\Dev\Etc\ProcessNameTest\obj\Debug\ProcessNameTest.pdb

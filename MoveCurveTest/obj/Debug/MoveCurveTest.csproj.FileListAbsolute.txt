@@ -1,0 +1,16 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\bin\Debug\MoveCurveTest.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\bin\Debug\MoveCurveTest.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\MoveCurveTest.frmMain.resources
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\MoveCurveTest.Properties.Resources.resources
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\MoveCurveTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\MoveCurveTest.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\MoveCurveTest\obj\Debug\MoveCurveTest.pdb
+D:\Dev\Etc\MoveCurveTest\obj\Debug\MoveCurveTest.exe
+D:\Dev\Etc\MoveCurveTest\obj\Debug\MoveCurveTest.pdb
+D:\Dev\Etc\MoveCurveTest\bin\Debug\MoveCurveTest.exe
+D:\Dev\Etc\MoveCurveTest\bin\Debug\MoveCurveTest.pdb
+D:\Dev\Etc\MoveCurveTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Etc\MoveCurveTest\obj\Debug\MoveCurveTest.frmMain.resources
+D:\Dev\Etc\MoveCurveTest\obj\Debug\MoveCurveTest.Properties.Resources.resources
+D:\Dev\Etc\MoveCurveTest\obj\Debug\MoveCurveTest.csproj.GenerateResource.Cache

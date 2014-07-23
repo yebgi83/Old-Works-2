@@ -1,0 +1,16 @@
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.csproj.ResolveComReference.cache
+D:\Dev\Etc\GetAllUsersDesktopFolder\bin\Release\GetAllUsersDesktopFolder.exe
+D:\Dev\Etc\GetAllUsersDesktopFolder\bin\Release\GetAllUsersDesktopFolder.pdb
+D:\Dev\Etc\GetAllUsersDesktopFolder\bin\Release\Interop.IWshRuntimeLibrary.dll
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.exe
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.pdb
+C:\GH\GetAllUsersDesktopFolder\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\GH\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.csproj.ResolveComReference.cache
+C:\GH\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.exe
+C:\GH\GetAllUsersDesktopFolder\obj\Release\GetAllUsersDesktopFolder.pdb
+C:\GH\GetAllUsersDesktopFolder\bin\Release\GetAllUsersDesktopFolder.exe
+C:\GH\GetAllUsersDesktopFolder\bin\Release\GetAllUsersDesktopFolder.pdb
+C:\GH\GetAllUsersDesktopFolder\bin\Release\Interop.IWshRuntimeLibrary.dll
+C:\GH\GetAllUsersDesktopFolder\obj\Release\ResolveAssemblyReference.cache

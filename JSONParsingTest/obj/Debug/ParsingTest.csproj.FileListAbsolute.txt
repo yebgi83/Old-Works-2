@@ -1,0 +1,16 @@
+D:\Dev\Etc\ParsingTest\bin\Debug\ParsingTest.exe
+D:\Dev\Etc\ParsingTest\bin\Debug\ParsingTest.pdb
+D:\Dev\Etc\ParsingTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Etc\ParsingTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dev\Etc\ParsingTest\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dev\Etc\ParsingTest\obj\Debug\ParsingTest.csproj.GenerateResource.Cache
+D:\Dev\Etc\ParsingTest\obj\Debug\ParsingTest.exe
+D:\Dev\Etc\ParsingTest\obj\Debug\ParsingTest.pdb
+C:\GH\JSONParsingTest\obj\Debug\ParsingTest.exe
+C:\GH\JSONParsingTest\obj\Debug\ParsingTest.pdb
+C:\GH\JSONParsingTest\bin\Debug\ParsingTest.exe
+C:\GH\JSONParsingTest\bin\Debug\ParsingTest.pdb
+C:\GH\JSONParsingTest\obj\Debug\ResolveAssemblyReference.cache
+C:\GH\JSONParsingTest\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\GH\JSONParsingTest\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\GH\JSONParsingTest\obj\Debug\ParsingTest.csproj.GenerateResource.Cache

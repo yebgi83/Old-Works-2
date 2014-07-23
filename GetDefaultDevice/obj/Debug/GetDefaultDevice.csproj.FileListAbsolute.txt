@@ -1,0 +1,20 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\GetDefaultDevice.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\GetDefaultDevice.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\NAudio.dll
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\OggVorbisSharp.dll
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\OggVorbisSharp.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\NAudio.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\bin\Debug\NAudio.xml
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\obj\Debug\GetDefaultDevice.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\GetDefaultDevice\obj\Debug\GetDefaultDevice.pdb
+D:\Dev\Etc\GetDefaultDevice\obj\Debug\GetDefaultDevice.exe
+D:\Dev\Etc\GetDefaultDevice\obj\Debug\GetDefaultDevice.pdb
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\GetDefaultDevice.exe
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\GetDefaultDevice.pdb
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\NAudio.dll
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\OggVorbisSharp.dll
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\OggVorbisSharp.pdb
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\NAudio.pdb
+D:\Dev\Etc\GetDefaultDevice\bin\Debug\NAudio.xml
+D:\Dev\Etc\GetDefaultDevice\obj\Debug\ResolveAssemblyReference.cache

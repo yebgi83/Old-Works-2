@@ -1,0 +1,10 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ParsingTest2\bin\Debug\ParsingTest2.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ParsingTest2\bin\Debug\ParsingTest2.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ParsingTest2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ParsingTest2\obj\Debug\ParsingTest2.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\ParsingTest2\obj\Debug\ParsingTest2.pdb
+D:\Dev\Etc\ParsingTest2\obj\Debug\ParsingTest2.exe
+D:\Dev\Etc\ParsingTest2\obj\Debug\ParsingTest2.pdb
+D:\Dev\Etc\ParsingTest2\bin\Debug\ParsingTest2.exe
+D:\Dev\Etc\ParsingTest2\bin\Debug\ParsingTest2.pdb
+D:\Dev\Etc\ParsingTest2\obj\Debug\ResolveAssemblyReference.cache

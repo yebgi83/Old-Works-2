@@ -1,0 +1,16 @@
+D:\Dev\Etc\GestureRecognizer\bin\x86\Release\GestureRecognizer.exe
+D:\Dev\Etc\GestureRecognizer\bin\x86\Release\GestureRecognizer.pdb
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\WindowsFormsApplication1.frmMain.resources
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\GestureRecognizer.csproj.GenerateResource.Cache
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\GestureRecognizer.exe
+D:\Dev\Etc\GestureRecognizer\obj\x86\Release\GestureRecognizer.pdb
+C:\GH\GestureRecognizer\obj\x86\Release\GestureRecognizer.exe
+C:\GH\GestureRecognizer\obj\x86\Release\GestureRecognizer.pdb
+C:\GH\GestureRecognizer\bin\x86\Release\GestureRecognizer.exe
+C:\GH\GestureRecognizer\bin\x86\Release\GestureRecognizer.pdb
+C:\GH\GestureRecognizer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\GH\GestureRecognizer\obj\x86\Release\WindowsFormsApplication1.frmMain.resources
+C:\GH\GestureRecognizer\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\GH\GestureRecognizer\obj\x86\Release\GestureRecognizer.csproj.GenerateResource.Cache

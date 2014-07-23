@@ -1,0 +1,16 @@
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\bin\Debug\AStar.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\bin\Debug\AStar.pdb
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\AStar.frmMain.resources
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\AStar.exe
+C:\Documents and Settings\MyCom\Local Settings\Application Data\Temporary Projects\AStar\obj\Debug\AStar.pdb
+D:\Dev\Etc\AStar\obj\Debug\AStar.exe
+D:\Dev\Etc\AStar\obj\Debug\AStar.pdb
+D:\Dev\Etc\AStar\bin\Debug\AStar.exe
+D:\Dev\Etc\AStar\bin\Debug\AStar.pdb
+D:\Dev\Etc\AStar\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Etc\AStar\obj\Debug\AStar.frmMain.resources
+D:\Dev\Etc\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\Dev\Etc\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache

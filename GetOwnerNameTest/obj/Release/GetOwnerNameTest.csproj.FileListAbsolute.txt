@@ -1,0 +1,7 @@
+D:\Dev\Etc\GetOwnerNameTest\bin\Release\GetOwnerNameTest.exe
+D:\Dev\Etc\GetOwnerNameTest\bin\Release\GetOwnerNameTest.pdb
+D:\Dev\Etc\GetOwnerNameTest\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\GetOwnerNameTest\obj\Release\GetOwnerNameTest.exe
+D:\Dev\Etc\GetOwnerNameTest\obj\Release\GetOwnerNameTest.pdb
+C:\GH\GetOwnerNameTest\obj\Release\GetOwnerNameTest.exe
+C:\GH\GetOwnerNameTest\obj\Release\GetOwnerNameTest.pdb

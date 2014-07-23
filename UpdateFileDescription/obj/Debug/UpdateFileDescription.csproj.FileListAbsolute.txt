@@ -1,0 +1,5 @@
+D:\Dev\Etc\UpdateFileDescription\bin\Debug\UpdateFileDescription.exe
+D:\Dev\Etc\UpdateFileDescription\bin\Debug\UpdateFileDescription.pdb
+D:\Dev\Etc\UpdateFileDescription\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Etc\UpdateFileDescription\obj\Debug\UpdateFileDescription.exe
+D:\Dev\Etc\UpdateFileDescription\obj\Debug\UpdateFileDescription.pdb

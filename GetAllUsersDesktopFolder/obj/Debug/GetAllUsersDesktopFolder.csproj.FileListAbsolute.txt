@@ -1,0 +1,2 @@
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Dev\Etc\GetAllUsersDesktopFolder\obj\Debug\GetAllUsersDesktopFolder.csproj.ResolveComReference.cache

@@ -1,0 +1,8 @@
+D:\Dev\Etc\AStar\bin\Release\AStar.exe
+D:\Dev\Etc\AStar\bin\Release\AStar.pdb
+D:\Dev\Etc\AStar\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\AStar\obj\Release\AStar.frmMain.resources
+D:\Dev\Etc\AStar\obj\Release\AStar.Properties.Resources.resources
+D:\Dev\Etc\AStar\obj\Release\AStar.csproj.GenerateResource.Cache
+D:\Dev\Etc\AStar\obj\Release\AStar.exe
+D:\Dev\Etc\AStar\obj\Release\AStar.pdb

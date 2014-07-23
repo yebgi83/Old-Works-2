@@ -1,0 +1,5 @@
+D:\Dev\Etc\UpdateFileDescription\bin\x86\Release\UpdateVersionInfo.exe
+D:\Dev\Etc\UpdateFileDescription\bin\x86\Release\UpdateVersionInfo.pdb
+D:\Dev\Etc\UpdateFileDescription\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dev\Etc\UpdateFileDescription\obj\x86\Release\UpdateVersionInfo.exe
+D:\Dev\Etc\UpdateFileDescription\obj\x86\Release\UpdateVersionInfo.pdb
